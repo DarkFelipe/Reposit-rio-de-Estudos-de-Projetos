@@ -1,0 +1,3 @@
+Para adicionar ao repositório local - "git add ."
+Para comitar - "git commit -m "mensagem aqui" "
+Para enviar para o repositório "git push origin main"
