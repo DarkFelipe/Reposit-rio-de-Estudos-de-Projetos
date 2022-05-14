@@ -1,2 +1,2 @@
-# Reposit-rio-de-Estudos-de-Projetos
-Repositório para salvar meus projetos para estudo na área de programação
+# Repositório de Estudos de Projetos
+Este repositório tem o próposito de arquivar meus estudos na área de desenvolvimento de softwares. 👨‍🎓
