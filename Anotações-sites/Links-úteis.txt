@@ -1,0 +1,2 @@
+Link para estudar sites em váris linguagens: https://www.w3schools.com/
+link para jquery: https://jqueryui.com/accordion/
